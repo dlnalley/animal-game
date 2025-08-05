@@ -10,14 +10,17 @@ as follows:
      Direction: Diagonal
      Distance: 1
      Locomotion: Sliding
+     
  *Wombat:
      Direction: Orhogonal
      Distance: 4
      Locomotion: Jumping
+     
  *Emu:
      Direction: Orthogonal
      Distance: 3
      Locomotion: Sliding
+     
  *Cuttlefish:
      Direction: Diagonal
      Distance: 2
