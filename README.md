@@ -12,7 +12,7 @@ Chinchilla:
      Distance: 1
      Locomotion: Sliding
      
-Wombat
+Wombat:
 
      Direction: Orhogonal
      Distance: 4
