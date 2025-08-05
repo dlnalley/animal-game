@@ -6,22 +6,26 @@ The goal of this game is to capture the opposing player's cuttlefish. The pieces
 grid style board, with player Tangerine moving first. The direction, distance and locomotion for each piece is
 as follows:
 
- *Chinchilla:
+Chinchilla:
+
      Direction: Diagonal
      Distance: 1
      Locomotion: Sliding
      
- *Wombat:
+Wombat
+
      Direction: Orhogonal
      Distance: 4
      Locomotion: Jumping
      
- *Emu:
+Emu:
+
      Direction: Orthogonal
      Distance: 3
      Locomotion: Sliding
      
- *Cuttlefish:
+Cuttlefish:
+
      Direction: Diagonal
      Distance: 2
      Locomotion: Jumping
